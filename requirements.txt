@@ -12,6 +12,11 @@ langchain-community==0.3.31
 langchain==0.3.27
 langchain_core==0.3.79
 langchain-openai==0.3.35
+langchain-chroma==0.1.4
+
+#numpy
+numpy==1.26.4
+hnswlib==0.8.0
 
 cfn_flip
 cfn-lint
